@@ -2,3 +2,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotKompot0)](https://github.com/KotKompot0/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotKompot0)](https://github.com/KotKompot0/github-readme-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KotKompot0)](https://github.com/KotKompot0/github-readme-activity-graph)
+![Jokes Card](https://readme-jokes.vercel.app/api)
